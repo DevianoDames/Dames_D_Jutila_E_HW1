@@ -29,3 +29,11 @@ TODO: Write credits
 ## License
 
 TODO: Write license
+
+All about our Team.
+
+Team Member 1: Akimbo
+
+Team Member 2: Dev
+
+All about our Team
