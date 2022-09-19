@@ -1,1 +1,3 @@
-# Dames_D_Jutila_E_HW1
+# Team Akimbo
+
+All about our Team.
