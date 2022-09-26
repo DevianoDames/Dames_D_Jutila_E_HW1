@@ -1,6 +1,6 @@
 ![alt text](img/akimbo.jpg "Logo Title Text 1")
 
-# Team Akimbo
+# Team Anime
 
 All about our awesome team!
 
