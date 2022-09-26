@@ -1,4 +1,4 @@
-![alt text](akimbo.jpg "Logo Title Text 1")
+![alt text](img/akimbo.jpg "Logo Title Text 1")
 
 # Team Akimbo
 
