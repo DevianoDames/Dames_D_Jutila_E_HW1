@@ -21,10 +21,6 @@ Deviano is 32 years old, is from The Bahamas. Deviano loves to play video games 
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
-
 ## Credits
 
 Ethan Jutila and Deviano Dames worked on this writing piece.
