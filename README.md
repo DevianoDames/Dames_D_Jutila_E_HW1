@@ -8,8 +8,8 @@ Ethan is 19 years old, is from Northern Ontario, plays video games competitively
 
 ## Team Member 2: Dev
 
-Deviano is #2 years old, is from The Bahamas. Deviano loves to play video games mainly call of duty. Loves reading manga and watching anime.
-TODO: Write usage instructions
+Deviano is 32 years old, is from The Bahamas. Deviano loves to play video games mainly call of duty. Loves reading manga and watching anime.
+
 
 ## Contributing
 
