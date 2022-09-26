@@ -1,12 +1,12 @@
-# Project Name
+# Team Akimbo
 
-TODO: Write a project description
+All about our awesome team!
 
-## Installation
+## Team Member 1: Ethan (Akimbo)
 
-TODO: Describe the installation process
+Ethan is 19 years old, is from Northern Ontario, plays video games competitively in esports for the Fanshawe FUEL, loves to play guitar, and loves to perform and listen to music.
 
-## Usage
+## Team Member 2: Dev
 
 TODO: Write usage instructions
 
@@ -29,11 +29,3 @@ TODO: Write credits
 ## License
 
 TODO: Write license
-
-All about our Team.
-
-Team Member 1: Akimbo
-
-Team Member 2: Dev
-
-All about our Team
