@@ -1,3 +1,5 @@
+![alt text](akimbo.jpg "Logo Title Text 1")
+
 # Team Akimbo
 
 All about our awesome team!
@@ -25,8 +27,8 @@ TODO: Write history
 
 ## Credits
 
-TODO: Write credits
+Ethan Jutila and Deviano Dames worked on this writing piece.
 
 ## License
 
-TODO: Write license
+MIT
